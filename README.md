@@ -11,10 +11,10 @@ a trainable AI. The algorithm developed helps the computer to decide the most ap
 ### Concepts implemented in the application
 <ul>
   <li> 
-    <a href="https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/">The Minimax Algorithm</a> - We implement the algorithm called the           Minimax algorithm which is a recursive or backtracking algorithm which is used in decision-making and game theory. The simulation algorithm is presented to predict       the win, or draw of a game by knowing the first move of a player.
+    <a href="https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/">The Minimax Algorithm</a> - We implement the algorithm called the           Minimax algorithm which is a recursive or backtracking algorithm which is used in decision-making and game theory. The simulation algorithm is presented to             predict the win, or draw of a game by knowing the first move of a player.
   </li>
   <li>
-    Trainable AI - The project also implements a trainable AI which is also implemented in JavaScript with the help of the TensorFlow library that allows the user to train the AI based     on the games he/she has played in the UI as a training input.
+    Trainable AI - The project also implements a trainable AI which is also implemented in JavaScript with the help of the TensorFlow library that allows the user to       train the AI based on the games played in the UI as a training input.
   </li>
 </ul>
 
