@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-using-AI
 
-### What the application is about:
+### About
 A web application consisting of an undefeatable and a trainable AI Tic-Tac-Toe game
 
 ### Introduction
