@@ -18,5 +18,85 @@ a trainable AI. The algorithm developed helps the computer to decide the most ap
   </li>
 </ul>
 
+### Programming languages / Libraries used
+<ul>
+  <li>
+    Python
+  </li>
+  <li>
+    HTML
+  </li>
+  <li>
+    CSS
+  </li>
+  <li>
+    JavaScipt
+  </li>
+  <li>
+    ReactJS
+  </li>
+  <li>
+    p5.js
+  </li>
+  <li>
+    TensorFlow
+  </li>
+</ul>
+
+### Hardware specifications
+<ul>
+  <li>
+    CPU: Intel i3, 2nd Gen (Minimum)
+  </li>
+  <li>
+    GPU: Any integrated GPU for executing the AI training
+  </li>
+</ul>
+
+### Software specifications
+<ul>
+  <li>
+    Node.js
+  </li>
+  <li>
+    Any browser that supports HTML5, JavaScript and CSS
+  </li>
+</ul>
+
+### Steps to run the application
+<ol>
+  <li>
+    Install node.js
+  </li>
+  <li>
+    Install python
+  </li>
+  <li>
+    Download the repository
+  </li>
+  <li>
+    Extract the files from the downloaded repository
+  </li>
+  <li>
+    Open the menu file menu.py in an editor
+  </li>
+  <li>
+    Edit the statement os.system() in the function MinimaxPressed with the location of the file index.html of the Minimax algorithm
+  </li>
+  <li>
+    Do the above step for the function TrainAIPressed with the location to the folder “trainable”
+  </li>
+  <li>
+    Open the folder “trainable” in command prompt
+  </li>
+  <li>
+    Run command “npm install react-scripts”
+  </li>
+  <li>
+    Save and run the file menu.py
+  </li>
+</ol>
+
+### Output
 https://user-images.githubusercontent.com/95302854/189372567-bd277648-51fc-4982-a707-70ef1d793d37.mp4
 
